@@ -42,6 +42,9 @@
     flex-direction: column;
     gap: 20px; 
   }
+  .music audio {
+    margin: auto;
+  }
   .top {
     background-color: rgb(222, 239, 239);
     padding: 20px;
